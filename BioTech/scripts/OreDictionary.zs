@@ -1,4 +1,4 @@
-print("Load CraftTweaker module: OREDICTINARY");
+print("Load CraftTweaker module: OREDIICTIONARY");
 //Add Dense Ores
 <ore:oreIron>.add(<densemetals:dense_iron_ore>);
 <ore:oreCoal>.add(<densemetals:dense_coal_ore>);
