@@ -1,0 +1,248 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/cmm/logotype.png",
+            "posX" : -200,
+            "posY" : -25,
+            "width" : 175,
+            "height" : 50,
+            "alignment" : "center"
+        },
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/cmm/shadlr.png",
+            "posX" : -30,
+            "posY" : -25,
+            "width" : 6,
+            "height" : 50,
+            "alignment" : "center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -15,
+            "posY" : -25,
+            "width" : 100,
+            "height" : 20,
+            "imageWidth":300,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "texture":"custommainmenu:textures/cmm/b8.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 85,
+            "posY" : -25,
+            "width" : 100,
+            "height" : 20,
+            "imageWidth":300,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "texture":"custommainmenu:textures/cmm/b8.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 85,
+            "posY" : -5,
+            "width" : 100,
+            "height" : 20,
+            "imageWidth":300,
+            "imageHeight":50,
+            "normalTextColor":16777215,
+            "texture":"custommainmenu:textures/cmm/b8.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : " ",
+            "posX" : 65,
+            "posY" : -5,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth":50,
+            "imageHeight":50,
+            "texture":"custommainmenu:textures/cmm/bsettings.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : " ",
+            "posX" : -22,
+            "posY" : 2,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth":30,
+            "imageHeight":30,
+            "texture":"custommainmenu:textures/cmm/bexit.png",
+            "alignment" : "top_right",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : " ",
+            "posX" : 45,
+            "posY" : -5,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth":50,
+            "imageHeight":50,
+            "texture":"custommainmenu:textures/cmm/blang.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : " ",
+            "posX" : -19,
+            "posY" : -1,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+        "discord":
+        {
+            "text" : " ",
+            "posX" : 25,
+            "posY" : -5,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth":50,
+            "imageHeight":50,
+            "texture":"custommainmenu:textures/cmm/bdiscord.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/CSASRtV"
+            }
+        },
+        "forum":
+        {
+            "text" : " ",
+            "posX" : 5,
+            "posY" : -5,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth":50,
+            "imageHeight":50,
+            "texture":"custommainmenu:textures/cmm/bforum.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://logicworld.ru/forum/"
+            }
+        },
+        "eq":
+        {
+            "text" : " ",
+            "posX" : -15,
+            "posY" : -5,
+            "width" : 20,
+            "height" : 20,
+            "imageWidth":50,
+            "imageHeight":50,
+            "texture":"custommainmenu:textures/cmm/beq.png",
+            "alignment" : "center",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://logicworld.ru/eq/"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB",
+            "hoverText" : "§nCopyright Mojang AB",
+            "posX" : -105,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+		"changelog":
+		{
+			"text":"web:http://play.logicworld.ru/launcher/splashes.php",
+			"posX" : -130,
+			"posY" : 30,
+			"color" : -1,
+			"alignment" : "center"
+		}
+    },
+    
+    "other":
+    {
+        
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["custommainmenu:textures/cmm/bg/bg1.png","custommainmenu:textures/cmm/bg/bg2.png","custommainmenu:textures/cmm/bg/bg3.png",
+                            "custommainmenu:textures/cmm/bg/bg4.png","custommainmenu:textures/cmm/bg/bg5.png","custommainmenu:textures/cmm/bg/bg6.png",
+                            "custommainmenu:textures/cmm/bg/bg7.png","custommainmenu:textures/cmm/bg/bg6.png",
+                            "custommainmenu:textures/cmm/bg/bg5.png","custommainmenu:textures/cmm/bg/bg4.png","custommainmenu:textures/cmm/bg/bg3.png",
+                            "custommainmenu:textures/cmm/bg/bg2.png"],
+                "displayDuration" : 0,
+                "fadeDuration" : 3
+            }
+        }
+    }
+}

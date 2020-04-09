@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/ae2_certus_quartz_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "mod_ae2:certus_quartz",
+  "parent1": "resource:quartzanthemum_plant",
+  "parent2": "resource:redstodendron_plant"
+}
