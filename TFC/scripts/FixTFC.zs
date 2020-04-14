@@ -1,0 +1,1 @@
+recipes.addShapeless(<tfc:goldpan>, [<tfc:goldpan:4>]);
