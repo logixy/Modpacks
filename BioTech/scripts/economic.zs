@@ -7,7 +7,7 @@ ResearchTable.builder("moneyMining", catMoney) // The second parameter has no us
   .setIcons(<minecraft:diamond>)
   .setTitle("Добываем монетки x1") // I18n support: use language key
   .setDescription("Выполнив это задание - вы получите 10 монет")
-  .addEnergyCondition(1000000)
+  .addEnergyCondition(100000000)
   .setRewardCommands("/oxygenop core -currency -add @s 0 10")
   .setNoMaxCount()
   .build();
