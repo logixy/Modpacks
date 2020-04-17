@@ -81,10 +81,10 @@ ResearchTable.builder("multi_armor", catEnd)
   .build();
   
 //MultiTool <ore:circuitUltimate> 
-ResearchTable.builder("railgun", catEnd)
+ResearchTable.builder("multi_tool", catEnd)
   .setTitle("Мульти-инструмент")
   .setDescription("Мгновенно разбивает/устанавливает блоки на расстоянии до 128 блоков.")
-  .setIcons(<overloaded:railgun>)
+  .setIcons(<overloaded:multi_tool>)
   .addEnergyCondition(100000000)
   .addCondition(<ore:circuitUltimate> * 100, <ore:ingotSteel> * 1000)
   .setRewardItems(<overloaded:multi_tool>.withTag({}))
