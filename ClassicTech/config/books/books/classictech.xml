@@ -1,0 +1,268 @@
+<book title="ClassicTech Manual" cover="gbook:covers/acircut" fontSize="0.7">
+
+<chapter>
+    <section>
+		<space height="25%" />
+		<p space="0" align="center" scale="1.5">Добро пожаловать!</p>
+		<p space="0" align="center" scale="1.5">это</p>
+		<p space="0" align="center" scale="1.5">путеводитель по ClassicTech</p>
+		<p space="6" align="center" scale="1.5">__________</p>
+		<p align="center" scale="1.5">LogicWorld</p>
+	</section>
+	<section>
+      <title>Содержание</title>
+      <link ref="stages">1. Стадии развития</link>
+      <link indent="8" ref="stages:first_energy">1.1. Хранение и генерация I</link>
+	  <link indent="8" ref="stages:second_energy">1.2. Хранение и генерация II</link>
+	  <link indent="8" ref="stages:third_energy">1.3. Хранение и генерация III</link>
+	  <link indent="8" ref="stages:fouth_energy">1.4. Хранение и генерация IV</link>
+	  <link indent="8" ref="stages:first_tools">1.5. Электро-инструменты I</link>
+	  <link indent="8" ref="stages:tools_tier2">1.6. Электро-инструменты II</link>
+	  <link indent="8" ref="stages:tools_tier3">1.7. Электро-инструменты III</link>
+	  <link indent="8" ref="stages:tools_tier4">1.8. Электро-инструменты IV</link>
+	  <link indent="8" ref="stages:first_mechanisms">1.9. Электро-механизмы I</link>
+	  <link indent="8" ref="stages:mechanisms_tier2">1.10. Электро-механизмы II</link>
+	  <link indent="8" ref="stages:mechanisms_tier3">1.11. Электро-механизмы III</link>
+    </section>
+</chapter>
+
+<chapter id="stages">
+	<section>
+		<title>Стадии развития</title>
+		<p>
+			Для того, чтобы начать пользоваться электро-устройствами необходимо изучать
+			и совершенствовать свои знания.
+		</p>
+		<p>
+			Изучения производяться на исследовательском столе, настоятельно рекомендуется его создать.
+			<stack item="researchtable:table" meta="0" />
+		</p>
+		<big_recipe>
+			<space/>
+			<stack item="minecraft:stone_pressure_plate"/>
+			<space/>
+			<stack item="minecraft:lever"/>
+			<stack ore="blockIron"/>
+			<stack item="minecraft:lever"/>
+			<stack ore="stone"/>
+			<stack ore="stone"/>
+			<stack ore="stone"/>
+			<stack item="researchtable:table"/>
+		</big_recipe>
+	</section>
+	<section id="first_energy">
+		<title>Стадия: Хранение и генерация I</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack item="minecraft:iron_ingot" meta="0" count="64" />
+			<stack item="ic2:itemharz" meta="0" count="32" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: first_energy</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:blockelectric" meta="0" />
+			<stack item="ic2:blockgenerator" meta="0" />
+			<stack item="ic2:blockgenerator" meta="2" />
+			<stack item="ic2:blockgenerator" meta="3" />
+			<stack item="ic2:blockgenerator" meta="4" />
+			<stack item="ic2:blockpersonal" meta="5" tag="{MaxEnergy: 30000, Tier: 1}" />
+			<stack item="ic2:blockelectric" meta="8" />
+			<stack item="ic2:blockelectric" meta="3" />
+			<stack item="ic2:chargepad" meta="0" />
+		</p>
+	</section>
+	<section id="second_energy">
+		<title>Стадия: Хранение и генерация II</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack item="minecraft:gold_ingot" meta="0" count="128" />
+			<stack item="ic2:itemmisc" meta="452" count="32" />
+			<stack item="ic2:itemmisc" meta="252" count="16" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: second_energy</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:blockpersonal" meta="5" tag="{MaxEnergy: 600000, Tier: 2}" />
+			<stack item="ic2:blockgenerator" meta="1" />
+			<stack item="ic2:blockgenerator" meta="12" />
+			<stack item="ic2:blockgenerator" meta="11" />
+			<stack item="ic2:blockcompactedgenerator" meta="0" />
+			<stack item="ic2:blockcompactedgenerator" meta="3" />
+			<stack item="ic2:blockelectric" meta="1" />
+			<stack item="ic2:blockelectric" meta="9" />
+			<stack item="ic2:chargepad" meta="1" />
+			<stack item="ic2:itemarmorbatpack" meta="0" />
+		</p>
+	</section>
+	<section id="third_energy">
+		<title>Стадия: Хранение и генерация III</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack item="ic2:itembatlamacrystal" meta="0" count="12" />
+			<stack item="ic2:itemmisc" meta="257" count="32" />
+			<stack item="ic2:itemmisc" meta="256" count="16" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: third_energy</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:blockpersonal" meta="5" tag="{MaxEnergy: 10000000, Tier: 3}" />
+			<stack item="ic2:blockelectric" meta="2" />
+			<stack item="ic2:blockelectric" meta="10" />
+			<stack item="ic2:blockcompactedgenerator" meta="4" />
+			<stack item="ic2:blockcompactedgenerator" meta="1" />
+			<stack item="ic2:chargepad" meta="2" />
+			<stack item="ic2:itemarmorlappack" meta="0" />
+			<stack item="ic2:blockelectric" meta="12" />
+			<stack item="ic2:blockgenerator" meta="5" />
+			<stack item="ic2:blockchambers" meta="0" />
+			<stack item="ic2:blockgenerator" meta="6" />
+			<stack item="ic2:blockchambers" meta="1" />
+		</p>
+	</section>
+	<section id="fouth_energy">
+		<title>Стадия: Хранение и генерация IV</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack item="ic2:itemmisc" meta="258" count="16" />
+			<stack item="ic2:itemmisc" meta="264" count="6" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: fouth_energy</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:blockcompactedgenerator" meta="2" />
+			<stack item="ic2:blockcompactedgenerator" meta="5" />
+			<stack item="ic2:blockelectric" meta="5" />
+			<stack item="ic2:blockelectric" meta="11" />
+			<stack item="ic2:blockelectric" meta="13" />
+			<stack item="ic2:chargepad" meta="3" />
+			<stack item="ic2:itemarmorquantumpack" meta="0" />
+		</p>
+	</section>
+	<section id="first_tools">
+		<title>Стадия: Электро-инструменты I</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack item="minecraft:iron_ingot" meta="0" count="54" />
+			<stack item="ic2:itemharz" meta="0" count="32" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: first_tools</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:itemdrills" meta="0" />
+			<stack item="ic2:itemtoolchainsaw" meta="0" />
+			<stack item="ic2:itemtoolhoe" meta="0" />
+			<stack item="ic2:itemtreetapelectric" meta="0" />
+			<stack item="ic2:electricsprayer" meta="0" />
+			<stack item="ic2:itemtoolwrenchelectric" meta="0" />
+			<stack item="ic2:itemtoolbox" meta="0" />
+			<stack item="ic2:itemtoolmeter" meta="0" />
+			<stack item="ic2:itemmachinetool" meta="0" />
+			<stack item="ic2:itemthermometer" meta="0" />
+		</p>
+	</section>
+	<section id="tools_tier2">
+		<title>Стадия: Электро-инструменты II</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack ore="blockRedstone" count="16" />
+			<stack ore="circuitBasic" count="16" />
+			<stack ore="gemDiamond" count="16" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: tools_tier2</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:precisionwrench" meta="0" />
+			<stack item="ic2:itemmowingtool" meta="0" />
+			<stack item="ic2:itemdrills" meta="1" />
+			<stack item="ic2:itemtoolbox" meta="2" />
+		</p>
+	</section>
+	<section id="tools_tier3">
+		<title>Стадия: Электро-инструменты III</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack ore="blockRedstone" count="32" />
+			<stack ore="circuitAdvanced" count="32" />
+			<stack ore="gemDiamond" count="128" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: tools_tier3</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:itemnanosabers" meta="0" />
+			<stack item="ic2:itemtoolmininglaser" meta="0" />
+			<stack item="ic2:itemtoolbox" meta="4" />
+		</p>
+	</section>
+	<section id="tools_tier4">
+		<title>Стадия: Электро-инструменты IV</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack ore="blockRedstone" count="64" />
+			<stack ore="circuitAdvanced" count="64" />
+			<stack ore="gemDiamond" count="256" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: tools_tier4</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:itemdrills" meta="1" tag="{Rockcutter: 1 as byte}" />
+			<stack item="ic2:itemdrills" meta="1" tag="{ench: [{lvl: 1 as short, id: 33 as short}]}" />
+			<stack item="ic2:itemdrills" meta="1" tag="{ench: [{lvl: 3 as short, id: 35 as short}], Rockcutter: 1 as byte}" />
+			<stack item="ic2:itemportableteleporter" meta="0" />
+		</p>
+	</section>
+	<section id="first_mechanisms">
+		<title>Стадия: Электро-механизмы I</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack ore="ingotCopper" count="64" />
+			<stack ore="ingotTin" count="64" />
+			<stack ore="ingotIron" count="64" />
+			<stack ore="ingotGold" count="16" />
+			<stack ore="gemDiamond" count="16" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: first_mechanisms</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:blockmachinelv" meta="2" />
+			<stack item="ic2:blockmachinelv" meta="3" />
+			<stack item="ic2:blockmachinelv" meta="4" />
+			<stack item="ic2:blockmachinelv" meta="5" />
+		</p>
+	</section>
+	<section id="stage">
+		<title>Стадия: Электро-механизмы II</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack item="ic2:itemmisc" meta="257" count="64" />
+			<stack item="ic2:itemmisc" meta="256" count="64" />
+			<stack ore="ingotRefinedIron" meta="0" count="128" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: stage</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:blockmachinemv" meta="0" />
+			<stack item="ic2:blockmachinemv" meta="1" />
+			<stack item="ic2:blockmachinemv" meta="7" />
+			<stack item="ic2:blockmachinemv" meta="6" />
+			<stack item="ic2:blockmachinemv" meta="2" />
+			<stack item="ic2:blockmachinemv" meta="3" />
+			<stack item="ic2:blockmachinemv" meta="4" />
+		</p>
+	</section>
+	<section id="mechanisms_tier3">
+		<title>Стадия: Электро-механизмы III</title>
+		<p>Для изучения вам потребуется сдать:</p>
+		<p>
+			<stack ore="circuitAdvanced" count="128" />
+			<stack item="ic2:itemmisc" meta="263" count="64" />
+			<stack item="ic2:itemmis" meta="264" count="64" />
+		</p>
+		<p space="6">Имя разблокируемой стадии: mechanisms_tier3</p>
+		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>
+			<stack item="ic2:blockmachinehv" meta="1" />
+			<stack item="ic2:blockmachinehv" meta="6" />
+		</p>
+	</section>
+</chapter>
+</book>
