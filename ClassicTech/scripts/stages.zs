@@ -175,7 +175,7 @@ mods.ItemStages.addItemStage("first_mechanisms", <ic2:blockmachinelv:5>);
 
 # Mechanisms tier II (s2)
 
-ResearchTable.builder("first_mechanismsResearch", cat)
+ResearchTable.builder("mechanisms_tier2Research", cat)
   .setIcons(<ic2:blockmachinemv>)
   .setTitle("Электро-механизмы II")
   .setDescription("Это исследование откроет вам технологии первичной обработки ресурсов \n Разблокируется стадия: mechanisms_tier2")
@@ -194,7 +194,7 @@ mods.ItemStages.addItemStage("mechanisms_tier2", <ic2:blockmachinemv:4>);
 
 # Mechanisms tier III (s3)
 
-ResearchTable.builder("first_mechanismsResearch", cat)
+ResearchTable.builder("mechanisms_tier3Research", cat)
   .setIcons(<ic2:blockmachinehv:1>)
   .setTitle("Электро-механизмы III")
   .setDescription("Это исследование откроет вам технологии первичной обработки ресурсов \n Разблокируется стадия: mechanisms_tier3")
