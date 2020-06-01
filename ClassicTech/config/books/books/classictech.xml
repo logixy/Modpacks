@@ -58,7 +58,7 @@
 			<stack item="ic2:itemharz" meta="0" count="32" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: first_energy</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:blockelectric" meta="0" />
 			<stack item="ic2:blockgenerator" meta="0" />
@@ -80,7 +80,7 @@
 			<stack item="ic2:itemmisc" meta="252" count="16" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: second_energy</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:blockpersonal" meta="5" tag="{MaxEnergy: 600000, Tier: 2}" />
 			<stack item="ic2:blockgenerator" meta="1" />
@@ -103,7 +103,7 @@
 			<stack item="ic2:itemmisc" meta="256" count="16" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: third_energy</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:blockpersonal" meta="5" tag="{MaxEnergy: 10000000, Tier: 3}" />
 			<stack item="ic2:blockelectric" meta="2" />
@@ -127,7 +127,7 @@
 			<stack item="ic2:itemmisc" meta="264" count="6" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: fouth_energy</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:blockcompactedgenerator" meta="2" />
 			<stack item="ic2:blockcompactedgenerator" meta="5" />
@@ -146,7 +146,7 @@
 			<stack item="ic2:itemharz" meta="0" count="32" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: first_tools</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:itemdrills" meta="0" />
 			<stack item="ic2:itemtoolchainsaw" meta="0" />
@@ -169,7 +169,7 @@
 			<stack ore="gemDiamond" count="16" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: tools_tier2</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:precisionwrench" meta="0" />
 			<stack item="ic2:itemmowingtool" meta="0" />
@@ -186,7 +186,7 @@
 			<stack ore="gemDiamond" count="128" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: tools_tier3</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:itemnanosabers" meta="0" />
 			<stack item="ic2:itemtoolmininglaser" meta="0" />
@@ -202,7 +202,7 @@
 			<stack ore="gemDiamond" count="256" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: tools_tier4</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:itemdrills" meta="1" tag="{Rockcutter: 1 as byte}" />
 			<stack item="ic2:itemdrills" meta="1" tag="{ench: [{lvl: 1 as short, id: 33 as short}]}" />
@@ -221,7 +221,7 @@
 			<stack ore="gemDiamond" count="16" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: first_mechanisms</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:blockmachinelv" meta="2" />
 			<stack item="ic2:blockmachinelv" meta="3" />
@@ -238,7 +238,7 @@
 			<stack ore="ingotRefinedIron" meta="0" count="128" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: stage</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:blockmachinemv" meta="0" />
 			<stack item="ic2:blockmachinemv" meta="1" />
@@ -258,7 +258,7 @@
 			<stack item="ic2:itemmis" meta="264" count="64" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: mechanisms_tier3</p>
-		<p>Изучив данную стадию вам станут доступны к использованию:</p>
+		<p>Изучив данную стадию, вы сможете использовать:</p>
 		<p>
 			<stack item="ic2:blockmachinehv" meta="1" />
 			<stack item="ic2:blockmachinehv" meta="6" />
