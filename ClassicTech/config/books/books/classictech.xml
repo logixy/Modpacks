@@ -142,7 +142,7 @@
 		<title>Стадия: Электро-инструменты I</title>
 		<p>Для изучения вам потребуется сдать:</p>
 		<p>
-			<stack item="minecraft:iron_ingot" meta="0" count="54" />
+			<stack item="minecraft:iron_ingot" meta="0" count="64" />
 			<stack item="ic2:itemharz" meta="0" count="32" />
 		</p>
 		<p space="6">Имя разблокируемой стадии: first_tools</p>
