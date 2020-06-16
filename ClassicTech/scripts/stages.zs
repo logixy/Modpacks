@@ -198,7 +198,7 @@ ResearchTable.builder("mechanisms_tier3Research", cat)
   .setIcons(<ic2:blockmachinehv:1>)
   .setTitle("Электро-механизмы III")
   .setDescription("Это исследование откроет вам технологии первичной обработки ресурсов \n Разблокируется стадия: mechanisms_tier3")
-  .addCondition(<ore:circuitAdvanced> * 128, <ic2:itemmisc:263> * 64, <ic2:itemmisc:264> * 64)
+  .addCondition(<ore:circuitAdvanced> * 128, <ic2:itemmisc:263> * 64)
   .setRewardStages("mechanisms_tier3")
   .setRewardCommands("/say \"Смотрите на него! У @s разблокирована третья стадия механизмов!\"")
   .build();
