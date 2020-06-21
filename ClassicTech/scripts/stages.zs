@@ -125,6 +125,7 @@ mods.ItemStages.addItemStage("tools_tier2", <ic2:precisionwrench>);
 mods.ItemStages.addItemStage("tools_tier2", <ic2:itemmowingtool>);
 mods.ItemStages.addItemStage("tools_tier2", <ic2:itemdrills:1>);
 mods.ItemStages.addItemStage("tools_tier2", <ic2:itemtoolbox:2>);
+mods.ItemStages.addItemStage("tools_tier2", <ic2:itemarmorjetpackelectric>);
 
 # Tools III
 
