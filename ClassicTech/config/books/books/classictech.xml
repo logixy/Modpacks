@@ -176,6 +176,7 @@
 			<stack item="ic2:itemdrills" meta="1" />
 			<stack item="ic2:itemtoolbox" meta="2" />
 			<stack item="ic2:itemarmorjetpackelectric" meta="0" />
+			<stack item="ic2caddons:nanobow" meta="0" />
 		</p>
 	</section>
 	<section id="tools_tier3">
