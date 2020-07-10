@@ -1,2 +1,2 @@
 # Modpacks
-Tweaks, Scripts, Configs, Assets for our modpacks
+Tweaks, Scripts, Configs, Assets for our modpacks.
