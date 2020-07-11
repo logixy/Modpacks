@@ -1,0 +1,1 @@
+recipes.addShapeless(<mekanism:ingot:4>, [<ic2:ingot:5>]);
