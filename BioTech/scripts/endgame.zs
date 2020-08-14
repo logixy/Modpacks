@@ -6,11 +6,11 @@ var catEnd = ResearchTable.addCategory(<overloaded:energy_core>);
 
 //Infinity water source
 ResearchTable.builder("infinite_water_source", catEnd)
-  .setTitle("Бесконечная источник воды")
+  .setTitle("Бесконечный источник воды")
   .setDescription("Компактный синтезатор воды из микро-античастиц материи.\nУчёные до сих пор не могут понять как именно это устройство генерирует воду.")
   .setIcons(<overloaded:infinite_water_source>)
   .addEnergyCondition(10000000)
-  .addCondition(<ore:ingotTin> * 350,<liquid:water> * 50000)
+  .addCondition(<ore:ingotTin> * 350, <liquid:water> * 50000)
   .setRewardItems(<overloaded:infinite_water_source>)
   .setNoMaxCount()
   .build();
