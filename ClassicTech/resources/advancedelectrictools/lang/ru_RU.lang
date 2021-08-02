@@ -1,0 +1,33 @@
+# Russian Language File
+# Tabs
+itemGroup.advancedelectrictools=Advanced Electric Tools
+item.icon.name=icon
+item.quantumsaber.name=Квантовая сабля
+item.nanobow.name=Нано-лук
+item.quantumbow.name=Квантовый лук
+item.pocketrefrigerant.name=Карманный хладагент
+item.electriclighter.name=Электрическая зажигалка
+item.quantumshield.name=Квантовый щит
+item.electricmagnet.name=Электромагнит
+item.nanodrill.name=Нано-бур
+item.thunderengine.name=Громовой двигатель
+item.nanochainsaw.name=Нано-пила
+item.quantumcore.name=Квантовое ядро
+item.quantumdrill.name=Квантовый бур
+item.quantumchainsaw.name=Квантовая пила
+item.heatlance.name=Раскаленное копье
+item.electricfishingrod.name=Электроудочка
+item.plasmaaircannon.name=Плазменная воздушная пушка
+item.electricsubmachinegun.name=Электрический подводный пистолет
+item.advelectricsubmachinegun.name=Продвинутый электрический подводный пистолет
+item.tlelectricsubmachinegun.name=Тактический лазерный проводной пистолет
+item.electricforcefieldgenerator.name=Электро-генератор силового поля
+item.quantumlifesupport.name=Квантовое устройство первой помощи
+item.electricrocketlauncher.name=Электрическая ракетная установка 
+item.missile.name=Ракета
+item.fireextinguishingbow.name=Электрический лук пожаротушения
+item.agitomk1.name=AGITO Mk.1
+item.agitomk2.name=AGITO Mk.2
+item.railgununitmk2.name=AGITO Mk.2 юнит рельсотрона
+item.vajra.name=Ваджара
+item.electricrockcutter.name=Электрический камнерез
