@@ -1,0 +1,19 @@
+item.nano_bow.name=Нано-лук
+item.uranium_rod.name=Урановый стержень
+item.uranium_rod_energized.name=Заряженный урановый стержень
+item.uranium_arrow.name=Урановая стрела
+item.uranium_arrow_energized.name=Заряженная урановая стрела
+
+death.attack.ic2caddons_nanobow=%1$s был измельчен %2$s
+death.attack.ic2caddons_nanobow.item=%1$s был измельчен игроком %2$s используя %3$s
+
+itemGroup.tabIc2cAddons=IC2C Addons
+IC2CAddons.tooltip=IC2C Addons щсобые настройки (они не влияют на ic2 classic)
+
+tooltip.ic2caddons.expandable=Нажми CTRL для отображения подробного описания
+tooltip.ic2caddons.item.nano_bow=Деревянные стрелы не достаточно прочны для этого лука. Вам понадобится что-то лучше. 
+tooltip.ic2caddons.item.nano_bow.modeinfo=Нажми %1$s для изменения режима
+tooltip.ic2caddons.item.nano_bow.modeinfountrack=Нажми %1$s для отключения слежки за целью при нацеливании
+tooltip.ic2caddons.item.nano_bow.mode=Режим: %1$s
+tooltip.ic2caddons.item.nano_bow.zoominfo=Нажми %1$s для переключения супер зума
+tooltip.ic2caddons.item.nano_bow.zoom=Супер зум: %1$s
