@@ -356,7 +356,7 @@ cyberware.gui.scanner_saying.15=Перебалансирование други�
 cyberware.gui.scanner_saying.16=Разблокирование Yandex
 cyberware.gui.scanner_saying.17=Издавание звуков R2D2
 cyberware.gui.scanner_saying.18=Расшифровка букв зодиака
-cyberware.gui.scanner_saying.19=Обновление буферизированного буфера
+cyberware.gui.scanner_saying.19=Буферизирование буфера
 cyberware.gui.scanner_saying.20=Переписывание конституции
 cyberware.gui.scanner_saying.21=Подкидывание кубиков
 cyberware.gui.scanner_saying.22=Сбор цветочков в саду
@@ -403,7 +403,7 @@ cyberware.gui.scanner_saying.62=Установка DOS
 cyberware.gui.scanner_saying.63=Абстрагирование уровней шума
 cyberware.gui.scanner_saying.64=Просеивание нервных частиц
 cyberware.gui.scanner_saying.65=Решение дифф. уравнений
-cyberware.gui.scanner_saying.66=Начало пространственного моделирования
+cyberware.gui.scanner_saying.66=Старт 3D-моделирования
 cyberware.gui.scanner_saying.67=Очистка System32
 cyberware.gui.scanner_saying.68=Грустит как Хатико
 cyberware.gui.scanner_saying.69=Поиск Травомана
@@ -416,9 +416,3 @@ cyberware.container.engineering=Кибер-верстак
 cyberware.container.scanner=Сканер
 cyberware.container.blueprint_archive=Архив чертежей
 cyberware.container.component_box=Коробка частей
-cyberware.container.component_box=Коробка частей
-onent_box=Коробка частей
-обка частей
-бка частей
-ка частей
-� частей
