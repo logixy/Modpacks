@@ -1,4 +1,4 @@
-
+#modloaded bloodmagic botania projecte
 //Remove
 //mods.bloodmagic.BloodAltar.removeRecipe(IItemStack input);
 mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:stone>);
